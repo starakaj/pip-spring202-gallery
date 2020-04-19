@@ -43,3 +43,15 @@
 [submodule "hw07/nart"]
 	path = hw07/nart
 	url = git@github.com:quavaro/quote-poem.git
+[submodule "hw01/cameron"]
+	path = hw01/cameron
+	url = git@github.com:c9632/express-intro.git
+[submodule "hw05/cameron"]
+	path = hw05/cameron
+	url = git@github.com:c9632/Audio-Visualizer.git
+[submodule "hw06/cameron"]
+	path = hw06/cameron
+	url = git@github.com:c9632/Draw-With-Nose.git
+[submodule "hw07/cameron"]
+	path = hw07/cameron
+	url = git@github.com:c9632/Pokemon-Bible-Verse-Generator.git
