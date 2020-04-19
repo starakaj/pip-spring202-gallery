@@ -1,3 +1,9 @@
 [submodule "hw01/max"]
 	path = hw01/max
 	url = https://github.com/therealmaxkim/Escape-The-Rooms
+[submodule "hw02/max"]
+	path = hw02/max
+	url = git@github.com:therealmaxkim/Tic-Tac-Toe.git
+[submodule "hw03/max"]
+	path = hw03/max
+	url = git@github.com:therealmaxkim/Dummy-Twitter.git
