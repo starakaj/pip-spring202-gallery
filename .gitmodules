@@ -55,3 +55,57 @@
 [submodule "hw07/cameron"]
 	path = hw07/cameron
 	url = git@github.com:c9632/Pokemon-Bible-Verse-Generator.git
+[submodule "hw01/lily"]
+	path = hw01/lily
+	url = git@github.com:lylyhan/prog-is-possible.git
+[submodule "hw04/lily-weibo"]
+	path = hw04/lily-weibo
+	url = git@github.com:lylyhan/hw4-raspberry.git
+[submodule "hw02/lily"]
+	path = hw02/lily
+	url = git@github.com:lylyhan/react-express-starter.git
+[submodule "hw03/lily"]
+	path = hw03/lily
+	url = git@github.com:lylyhan/prog-is-possible-hw3.git
+[submodule "hw05/lily"]
+	path = hw05/lily
+	url = git@github.com:lylyhan/hw5-audio.git
+[submodule "hw06/lily"]
+	path = hw06/lily
+	url = git@github.com:lylyhan/hw6-video.git
+[submodule "hw07/lily"]
+	path = hw07/lily
+	url = git@github.com:lylyhan/hw7-poem.git
+[submodule "hw01/dylan"]
+	path = hw01/dylan
+	url = git@github.com:dylandawk/express-intro.git
+[submodule "hw02/dylan"]
+	path = hw02/dylan
+	url = git@github.com:dylandawk/TicTacToe.git
+[submodule "hw03/dylan"]
+	path = hw03/dylan
+	url = git@github.com:dylandawk/mongo-react-inclass.git
+[submodule "hw05/dylan"]
+	path = hw05/dylan
+	url = git@github.com:dylandawk/audio-visualizer-01.git
+[submodule "hw06/dylan"]
+	path = hw06/dylan
+	url = git@github.com:dylandawk/optical-flow.git
+[submodule "hw01/weibo"]
+	path = hw01/weibo
+	url = git@github.com:chenweibo212/2020spring_programing_week01.git
+[submodule "hw02/weibo"]
+	path = hw02/weibo
+	url = git@github.com:chenweibo212/2020spring_programing_week02_tictactoe.git
+[submodule "hw03/weibo"]
+	path = hw03/weibo
+	url = git@github.com:chenweibo212/2020spring_programing_week03_chat.git
+[submodule "hw06/weibo"]
+	path = hw06/weibo
+	url = git@github.com:chenweibo212/2020spring_programing_week08_camera.git
+[submodule "hw07/weibo"]
+	path = hw07/weibo
+	url = git@github.com:chenweibo212/2020spring_programing_week09_words.git
+[submodule "nicole-master"]
+	path = nicole-master
+	url = git@github.com:nginelli/PIAP.git
