@@ -7,3 +7,18 @@
 [submodule "hw03/max"]
 	path = hw03/max
 	url = git@github.com:therealmaxkim/Dummy-Twitter.git
+[submodule "hw04/max-nicole-cameron"]
+	path = hw04/max-nicole-cameron
+	url = git@github.com:therealmaxkim/Pi-Temperature.git
+[submodule "hw05/max"]
+	path = hw05/max
+	url = git@github.com:therealmaxkim/Audio-Visualizer.git
+[submodule "hw06/max"]
+	path = hw06/max
+	url = git@github.com:therealmaxkim/Direction-Visualizer.git
+[submodule "hw07/max"]
+	path = hw07/max
+	url = git@github.com:therealmaxkim/poem-generator.git
+[submodule "hw08/max"]
+	path = hw08/max
+	url = git@github.com:therealmaxkim/HandGesture-Adventure.git
