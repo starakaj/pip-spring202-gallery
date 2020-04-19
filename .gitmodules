@@ -22,3 +22,24 @@
 [submodule "hw08/max"]
 	path = hw08/max
 	url = git@github.com:therealmaxkim/HandGesture-Adventure.git
+[submodule "hw01/nart"]
+	path = hw01/nart
+	url = git@github.com:quavaro/programming-is-possible-assignments.git
+[submodule "hw02/nart"]
+	path = hw02/nart
+	url = git@github.com:quavaro/tictactoe.git
+[submodule "hw03/nart"]
+	path = hw03/nart
+	url = git@github.com:quavaro/dumb-twitter.git
+[submodule "hw04/nart-dylan"]
+	path = hw04/nart-dylan
+	url = git@github.com:quavaro/dht.git
+[submodule "hw05/nart"]
+	path = hw05/nart
+	url = git@github.com:quavaro/raindrop-prelude.git
+[submodule "hw06/nart"]
+	path = hw06/nart
+	url = git@github.com:quavaro/faceprecognition.git
+[submodule "hw07/nart"]
+	path = hw07/nart
+	url = git@github.com:quavaro/quote-poem.git
