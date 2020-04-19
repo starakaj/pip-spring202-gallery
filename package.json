@@ -1,0 +1,11 @@
+{
+  "name": "pip-gallery",
+  "version": "0.1.0",
+  "description": "Homework assignment gallery from Programming is the Art of the Possible, spring 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Tarakajian",
+  "license": " CC-BY-SA-4.0"
+}
