@@ -1,0 +1,3 @@
+[submodule "hw01/max"]
+	path = hw01/max
+	url = https://github.com/therealmaxkim/Escape-The-Rooms
