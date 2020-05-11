@@ -109,3 +109,24 @@
 [submodule "nicole-master"]
 	path = nicole-master
 	url = git@github.com:nginelli/PIAP.git
+[submodule "hw05/weibo"]
+	path = hw05/weibo
+	url = git@github.com:chenweibo212/2020spring_programing_week07_sound.git
+[submodule "hw08/nart"]
+	path = hw08/nart
+	url = git@github.com:quavaro/space-shapes.git
+[submodule "hw08/weibo"]
+	path = hw08/weibo
+	url = git@github.com:chenweibo212/2020spring_programing_week10_teaching.git
+[submodule "hw08/cameron"]
+	path = hw08/cameron
+	url = git@github.com:c9632/Teachable-Machine.git
+[submodule "hw02/cameron"]
+	path = hw02/cameron
+	url = git@github.com:c9632/assignment-2-heroku.git
+[submodule "hw03/cameron"]
+	path = hw03/cameron
+	url = git@github.com:c9632/assignment-3-persistence.git
+[submodule "hw07/dylan"]
+	path = hw07/dylan
+	url = git@github.com:dylandawk/starwars-gangsta-rap.git
